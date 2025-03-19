@@ -27,8 +27,7 @@ for this purpose.
 
 ### Output:
 ```
-Name:Onteddu Sirisha
-Reg.No:212222230103
+
 ```
 
 
